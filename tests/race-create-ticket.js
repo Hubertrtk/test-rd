@@ -21,12 +21,11 @@ const accs = {
 };
 
 export default function () {
-  const url =
-    "https://restreamdesk-playlive-dhescvhdd3etbjdz.northeurope-01.azurewebsites.net/restreamdesk/createTicket";
+  const url = "http://10.0.11.242/restreamdesk/createTicket";
   const payload = JSON.stringify({
     data: generateTicket(),
     _sessid:
-      "5e1e4aaa-97d7-68f3-790b-df0431502545.c2cb68652b38def05b327be501e6b3e9a6c1efd8.aHVi.wb",
+      "0dd06edd-97a8-2d91-4f0f-de5273543eb6.873144a118042afcf8eeddfd9a205cc420f15746.c3Ry.wb",
   });
 
   const params = {

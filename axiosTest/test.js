@@ -5,7 +5,7 @@ const accs = {
   "acc_test_1@test.pl": {
     password: "HfxEE:04nk",
     sessionId:
-      "34f3ec68-b4a6-d25c-9b4c-a36a3917af1e.721c6a42a363d7ccc68c317f7019917fd02c3b6c.YWNj.wb",
+      "0dd06edd-97a8-2d91-4f0f-de5273543eb6.873144a118042afcf8eeddfd9a205cc420f15746.c3Ry.wb",
   },
 };
 
